@@ -1,0 +1,134 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%
+            
+    
+    
+}
+h1{
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 1;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem ;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+a{
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #eaf6f6;
+}
+.top-container{
+    
+    background-color: powderblue;
+    position: relative;
+    padding-top: 150px;
+}
+.middle-container{
+        background-color: white;
+        margin: 100px 0;
+        
+}
+.bottom-container{
+    background-color: powderblue;
+    padding: 50px 0 20px;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+}
+.pro{
+    text-decoration: underline;
+}
+.p1{
+    width: 30%;
+    margin: auto;
+    
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px auto;
+}
+.top-cloud{
+    position: absolute;
+    right: 350px;
+    top:40px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom:300px;
+}
+
+.computer1{
+    width: 25%;
+    border-radius: 50px;
+    float: left;
+    margin-right: 30px;
+}
+.investment{
+    width: 25%;
+    border-radius: 50px;
+    float: right;
+
+    margin-left: 30px;
+}
+.touch{
+    padding: 20px;
+}
+.info{
+    padding: 50px;
+}
+.copywright{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.btn{
+    background-color: #11cdd4 ;
+    background-color: #11999e;
+    border: none;
+    border-radius: 10%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #30e3cb;
+    background-color: #2bc4ad;
+}
